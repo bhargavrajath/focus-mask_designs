@@ -3,4 +3,4 @@
 
 filename format: masktype_minfocallength_aperture.stl
 
-example: bahtinov_200_90.stl -> Bahtinov mask for focal lengths > 200 mm and fits on physical aperture of 90 mm
+example: bahtinov_150_90.stl -> Bahtinov mask for focal lengths > 150 mm and fits on physical aperture of 90 mm
